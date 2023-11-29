@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game><Players><player type="1"><name>PC</name><score>4</score></player><player type="0"><name>Anastasiia</name><score>2</score></player></Players><Steps><city player_id="0">Amiens</city><city player_id="1">Sydney</city><city player_id="2">Yuzhou</city><city player_id="3">Uluberia</city><city player_id="4">Astana</city><city player_id="5">Aurora</city></Steps></Game>
