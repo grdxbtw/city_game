@@ -1,0 +1,12 @@
+﻿  sqlite3_progect.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Zhema\Documents\cpp_boost_projects\sqlite3_progect\sqlite3_progect\sqlite3_progect.cpp(112,58): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  Generating code
+  1 of 6953 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    67 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sqlite3_progect.vcxproj -> C:\Users\Zhema\Documents\cpp_boost_projects\sqlite3_progect\x64\Release\sqlite3_progect.exe
