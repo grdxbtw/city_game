@@ -21,7 +21,7 @@
 //
 #define DB_NAME "world" 
 #define DB_LOGIN "root" 
-#define DB_PASS "20051andr" 
+#define DB_PASS "pass" 
 #define DB_ADRESS "localhost" 
 
 class city_game
