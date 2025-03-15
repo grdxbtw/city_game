@@ -98,7 +98,7 @@ int main()
 	// The username, password and database to use
 	boost::mysql::handshake_params params(
 		"root",					// username
-		"20051andr",             // password
+		"pass",             // password
 		"world"					// database
 	);
 
